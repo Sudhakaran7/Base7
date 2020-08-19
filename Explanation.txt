@@ -1,0 +1,46 @@
+Given an integer, return its base 7 string representation.
+
+Input Description:
+n an integer as input. (1<n<100)
+
+Output Description:
+Print base 7 string representation for given n.
+
+Sample Input:
+50
+
+Sample Output:
+101
+
+Explanation:
+The base 7 string representation of 50 is 101.
+
+Sample Input:
+30
+
+Sample Output:
+42
+
+Sample Input:
+67
+
+Sample Output:
+124
+
+Sample Input:
+78
+
+Sample Output:
+141
+
+Sample Input:
+82
+
+Sample Output:
+145
+
+Sample Input:
+99
+
+Sample Output:
+201
